@@ -1,0 +1,639 @@
+[
+  {
+    "id": "ccc128c2-989f-4887-90ed-c64ffacc4b5a",
+    "manager": "Brett",
+    "week": 2,
+    "player": "Buccaneers",
+    "created": 1795296301031
+  },
+  {
+    "id": "320ef012-0542-46fa-a383-2b7c809ada81",
+    "manager": "Brett",
+    "week": 2,
+    "player": "Devin Singletary",
+    "created": 1795296308592
+  },
+  {
+    "id": "b6e94001-1a26-40ba-94cf-fc12b05af28d",
+    "manager": "Brett",
+    "week": 2,
+    "player": "Brenton Strange",
+    "created": 1795296316162
+  },
+  {
+    "id": "5ebea175-2ed6-44cf-9e54-d37958fdfe68",
+    "manager": "Brett",
+    "week": 3,
+    "player": "CJ Stroud",
+    "created": 1795296332845
+  },
+  {
+    "id": "cd971ef4-2f2d-4297-9a7f-30cec51f6e96",
+    "manager": "Brett",
+    "week": 3,
+    "player": "Tyjae Spears",
+    "created": 1795296343329
+  },
+  {
+    "id": "70e15e81-7abd-4f06-ade4-902917e8c8d6",
+    "manager": "Brett",
+    "week": 3,
+    "player": "Colts",
+    "created": 1795296348436
+  },
+  {
+    "id": "ae69d77f-d551-4170-a893-00b41b9fc837",
+    "manager": "Brett",
+    "week": 3,
+    "player": "Carnell Tate",
+    "created": 1795296367313
+  },
+  {
+    "id": "29c28447-2d13-4868-97b0-ca99aa232bd0",
+    "manager": "Brett",
+    "week": 3,
+    "player": "Malik Willis",
+    "created": 1795296390554
+  },
+  {
+    "id": "eac43151-30ad-459a-a0e8-f389954fa2b2",
+    "manager": "Brett",
+    "week": 4,
+    "player": "JK Dobbins",
+    "created": 1795296412738
+  },
+  {
+    "id": "9e9a6107-4d09-4134-b659-23e97e1c8e66",
+    "manager": "Brett",
+    "week": 4,
+    "player": "Jaylen Wright",
+    "created": 1795296423909
+  },
+  {
+    "id": "d67d0488-291c-417a-9a10-26c07118696d",
+    "manager": "Brett",
+    "week": 4,
+    "player": "Jordyn Tyson",
+    "created": 1795296436283
+  },
+  {
+    "id": "3543ed05-a931-4d81-b95f-a1f652d2c0f8",
+    "manager": "Brett",
+    "week": 5,
+    "player": "Jayden Daniels",
+    "created": 1795297132503
+  },
+  {
+    "id": "ae4f56f2-53d2-4825-bbdf-6fcad9934b45",
+    "manager": "Brett",
+    "week": 5,
+    "player": "Joe Mixon",
+    "created": 1795297142450
+  },
+  {
+    "id": "10996aa7-ce7d-48ad-aeaf-64ae482274dd",
+    "manager": "Brett",
+    "week": 5,
+    "player": "Kimani Vidal",
+    "created": 1795297153258
+  },
+  {
+    "id": "91b67185-162c-4def-bb04-d8f78bc059c3",
+    "manager": "Brett",
+    "week": 5,
+    "player": "Jets",
+    "created": 1795297159434
+  },
+  {
+    "id": "be1ef51f-36c1-4609-b89f-257290690799",
+    "manager": "Brett",
+    "week": 6,
+    "player": "Xavier Worthy",
+    "created": 1795297192136
+  },
+  {
+    "id": "7d256029-4d92-40dd-b0aa-93041c19d0d3",
+    "manager": "Brett",
+    "week": 6,
+    "player": "Buccaneers",
+    "created": 1795297202227
+  },
+  {
+    "id": "09d30c3e-aa9f-4995-af2a-0e4b8b9d32bc",
+    "manager": "Brett",
+    "week": 7,
+    "player": "Jonah Coleman",
+    "created": 1795297666047
+  },
+  {
+    "id": "f1eeb404-f3d2-4145-8844-99a665c94e70",
+    "manager": "Brett",
+    "week": 7,
+    "player": "Jets",
+    "created": 1795297673751
+  },
+  {
+    "id": "88eb92ef-ed9e-41e9-b949-98675b2b6f19",
+    "manager": "Brett",
+    "week": 8,
+    "player": "Makai Lemon",
+    "created": 1795297806189
+  },
+  {
+    "id": "cb587d65-f4db-44af-8bc2-300f91b80f13",
+    "manager": "Brett",
+    "week": 8,
+    "player": "Chigoziem Okonkwo",
+    "created": 1795297830645
+  },
+  {
+    "id": "56e6b785-48a2-4f9c-972f-4c8cef1f1456",
+    "manager": "Brett",
+    "week": 9,
+    "player": "Cowboys",
+    "created": 1795297863831
+  },
+  {
+    "id": "ebd47f44-61b8-4283-9312-25911f8837d7",
+    "manager": "Brett",
+    "week": 9,
+    "player": "Dylan Sampson",
+    "created": 1795297872414
+  },
+  {
+    "id": "8d88703c-bf22-42ae-8b06-df502049f3e1",
+    "manager": "Brett",
+    "week": 10,
+    "player": "Jacory Croskey-Merritt",
+    "created": 1795297931934
+  },
+  {
+    "id": "4e2ea1c4-7401-42db-a25b-17e773e203f6",
+    "manager": "Brett",
+    "week": 10,
+    "player": "Panthers",
+    "created": 1795297948798
+  },
+  {
+    "id": "a233171a-6ce2-487d-8543-2643082c61e0",
+    "manager": "Brett",
+    "week": 10,
+    "player": "Zoonovan Knight",
+    "created": 1795297985282
+  },
+  {
+    "id": "28d2b981-d251-465a-94c3-569ba29a74c5",
+    "manager": "Jeff",
+    "week": 2,
+    "player": "49ers",
+    "created": 1795298020323
+  },
+  {
+    "id": "89e72756-6402-4971-8afd-757a183d14a9",
+    "manager": "Jeff",
+    "week": 3,
+    "player": "Dalton Schultz",
+    "created": 1795298039671
+  },
+  {
+    "id": "940a9971-3d0a-4292-97a1-9f19231d6a3c",
+    "manager": "Jeff",
+    "week": 4,
+    "player": "Ollie Gordon II",
+    "created": 1795298076591
+  },
+  {
+    "id": "021f5f49-7dd0-4e20-b22e-66c777a74c3b",
+    "manager": "Jeff",
+    "week": 4,
+    "player": "Keenan Allen",
+    "created": 1795298085950
+  },
+  {
+    "id": "de6672c7-25ae-4141-84e6-4ceb6c71f976",
+    "manager": "Jeff",
+    "week": 4,
+    "player": "Chris Boswell",
+    "created": 1795298097706
+  },
+  {
+    "id": "e864115b-f0d5-4148-abab-c60fdb93e668",
+    "manager": "Jeff",
+    "week": 6,
+    "player": "Kendre Miller",
+    "created": 1795298123332
+  },
+  {
+    "id": "1fab07f3-50bf-4de5-a46c-8bfd2f3b992c",
+    "manager": "Jeff",
+    "week": 7,
+    "player": "Germie Bernard",
+    "created": 1795298157891
+  },
+  {
+    "id": "99a503f5-ee80-4eb6-ba8f-b813899303a6",
+    "manager": "Jeff",
+    "week": 7,
+    "player": "Dameon Pierce",
+    "created": 1795298175338
+  },
+  {
+    "id": "61899290-78a2-4327-8a82-41558496903d",
+    "manager": "Jeff",
+    "week": 7,
+    "player": "Kirk Cousins",
+    "created": 1795298188938
+  },
+  {
+    "id": "bb72deef-29a2-46be-afd8-ac5ca82935a2",
+    "manager": "Jeff",
+    "week": 5,
+    "player": "Mike Gesicki",
+    "created": 1795298242643
+  },
+  {
+    "id": "904b3f30-5c0b-4b08-9d7a-76fdb791cbf6",
+    "manager": "Jeff",
+    "week": 5,
+    "player": "Jacoby Brissett",
+    "created": 1795298260586
+  },
+  {
+    "id": "5451d086-b608-4760-aa3c-76b1060de579",
+    "manager": "Jeff",
+    "week": 8,
+    "player": "Omar Cooper Jr",
+    "created": 1795298306505
+  },
+  {
+    "id": "88454c6d-cf70-4d62-876a-f533bfa93a3f",
+    "manager": "Darin",
+    "week": 3,
+    "player": "Saints",
+    "created": 1795298352046
+  },
+  {
+    "id": "6abb2091-42a1-4692-a7a1-0f80fae28446",
+    "manager": "Darin",
+    "week": 5,
+    "player": "Spencer Shrader",
+    "created": 1795298369356
+  },
+  {
+    "id": "7059eafc-3bd5-47aa-bb45-2bb03b1a00dd",
+    "manager": "Darin",
+    "week": 6,
+    "player": "Justice Hill",
+    "created": 1795298384903
+  },
+  {
+    "id": "2891bcaf-2687-46b8-8376-7d4b06eea739",
+    "manager": "Darin",
+    "week": 9,
+    "player": "Chad Ryland",
+    "created": 1795298408954
+  },
+  {
+    "id": "0d1c5ca5-4769-4797-b1e3-e91ca302a5aa",
+    "manager": "Bruce",
+    "week": 5,
+    "player": "Sam Darnold",
+    "created": 1795298464167
+  },
+  {
+    "id": "f6fc4bd6-2491-443c-8dbe-88fb3a3c7314",
+    "manager": "Bruce",
+    "week": 6,
+    "player": "Jalen Hurts",
+    "created": 1795298490310
+  },
+  {
+    "id": "958925a3-f6c4-48d3-9526-4f3ae2ff144a",
+    "manager": "Bruce",
+    "week": 6,
+    "player": "Tyler Bass",
+    "created": 1795298543790
+  },
+  {
+    "id": "e8011a79-186c-4a6f-88e4-be31fbab3d3c",
+    "manager": "Bruce",
+    "week": 7,
+    "player": "Aaron Rodgers",
+    "created": 1795298563228
+  },
+  {
+    "id": "3fdc1674-8f82-4daf-80bb-437b4e9d3947",
+    "manager": "Bruce",
+    "week": 8,
+    "player": "Sione Vaki",
+    "created": 1795298611445
+  },
+  {
+    "id": "ec989cd6-1a40-40e5-988a-3648fc5d9967",
+    "manager": "Bruce",
+    "week": 8,
+    "player": "Tyler Goodson",
+    "created": 1795298630084
+  },
+  {
+    "id": "333fd085-426a-46de-ac39-fda7ccba7f9d",
+    "manager": "Bruce",
+    "week": 9,
+    "player": "Michael Pittman",
+    "created": 1795298650671
+  },
+  {
+    "id": "5bd894a4-44e7-41f7-ba5c-ce2bcec9d7fd",
+    "manager": "Leo",
+    "week": 2,
+    "player": "Chiefs",
+    "created": 1795298704837
+  },
+  {
+    "id": "68a98c85-d2a4-447a-b4c4-c105e66b55a5",
+    "manager": "Leo",
+    "week": 2,
+    "player": "Bryce Young",
+    "created": 1795298714770
+  },
+  {
+    "id": "50df3921-234a-4191-8295-ee721cd0aa57",
+    "manager": "Leo",
+    "week": 3,
+    "player": "Oronde Gadsden II",
+    "created": 1795298780540
+  },
+  {
+    "id": "1a45afac-41a4-4ae1-9e5d-62eda5740139",
+    "manager": "Leo",
+    "week": 4,
+    "player": "Kenyon Sadiq",
+    "created": 1795298798915
+  },
+  {
+    "id": "a0bc3e88-c244-4a6f-b458-23dbaa854495",
+    "manager": "Leo",
+    "week": 5,
+    "player": "Will Shipley",
+    "created": 1795298811109
+  },
+  {
+    "id": "3c8848bf-c748-44ce-b2a1-94c63036b399",
+    "manager": "Leo",
+    "week": 6,
+    "player": "Pat Freiermuth",
+    "created": 1795298841022
+  },
+  {
+    "id": "44e7400e-cbac-4940-85ae-8ff20b63a5b4",
+    "manager": "Leo",
+    "week": 7,
+    "player": "Antonio Williams",
+    "created": 1795298866377
+  },
+  {
+    "id": "d3754fb5-3f4e-4260-95c2-e8a02096b267",
+    "manager": "Leo",
+    "week": 9,
+    "player": "Seth McGowan",
+    "created": 1795298889102
+  },
+  {
+    "id": "12530ba3-f532-499b-b877-f5f68908de96",
+    "manager": "Steve",
+    "week": 2,
+    "player": "Devaughn Vele",
+    "created": 1795298952368
+  },
+  {
+    "id": "627ea9ea-e4bf-44f1-8ba9-ceb01517dce1",
+    "manager": "Steve",
+    "week": 3,
+    "player": "Alvin Kamara",
+    "created": 1795298978726
+  },
+  {
+    "id": "5a3b697e-8ea0-4fb8-9b4d-063f88715aeb",
+    "manager": "Steve",
+    "week": 4,
+    "player": "Bears",
+    "created": 1795298993901
+  },
+  {
+    "id": "2c2b577d-1674-47bd-af7a-fde2d5d211a3",
+    "manager": "Steve",
+    "week": 5,
+    "player": "Emanuel Wilson",
+    "created": 1795299039720
+  },
+  {
+    "id": "a93c6cd2-2c34-4e12-bfb2-d6a1dc802a55",
+    "manager": "Steve",
+    "week": 7,
+    "player": "Tre Tucker",
+    "created": 1795299066044
+  },
+  {
+    "id": "c17486f5-30b4-4f5e-8f3d-e77bd381e861",
+    "manager": "Steve",
+    "week": 7,
+    "player": "Tyler Higbee",
+    "created": 1795299075572
+  },
+  {
+    "id": "039f318f-479f-4ec2-afa2-76b29167ce05",
+    "manager": "Steve",
+    "week": 10,
+    "player": "Konata Mumpfield",
+    "created": 1795299133486
+  },
+  {
+    "id": "9859b1c0-7843-4d1b-a5ce-0ff380920382",
+    "manager": "Steve",
+    "week": 10,
+    "player": "AJ Barner",
+    "created": 1795299145442
+  },
+  {
+    "id": "1c132591-b0cc-4134-9d11-141d920cc140",
+    "manager": "Steve",
+    "week": 10,
+    "player": "Giants",
+    "created": 1795299152968
+  },
+  {
+    "id": "df968d0d-e2d9-40fd-ad77-ca029917565d",
+    "manager": "John",
+    "week": 3,
+    "player": "Denzel Boston",
+    "created": 1795299201287
+  },
+  {
+    "id": "44bf78f2-b073-4769-8270-cf0f5fc7b080",
+    "manager": "John",
+    "week": 3,
+    "player": "Rashod Bateman",
+    "created": 1795299213198
+  },
+  {
+    "id": "0419160f-bf6d-42c7-9cfb-f8faa07aef60",
+    "manager": "John",
+    "week": 3,
+    "player": "Adonai Mitchell",
+    "created": 1795299221837
+  },
+  {
+    "id": "5029d760-0bfd-4d3f-83bb-2598bb551404",
+    "manager": "John",
+    "week": 3,
+    "player": "Bengals",
+    "created": 1795299227697
+  },
+  {
+    "id": "bd43fff2-d3ce-4085-8d31-4c7727b57243",
+    "manager": "John",
+    "week": 5,
+    "player": "Roman Wilson",
+    "created": 1795299250388
+  },
+  {
+    "id": "a2639a92-07e7-4d2c-b3f2-c118d0edeee6",
+    "manager": "John",
+    "week": 6,
+    "player": "Darius Cooper",
+    "created": 1795299275036
+  },
+  {
+    "id": "e3cb1de1-8210-444f-8cc1-1be4ab878c43",
+    "manager": "John",
+    "week": 10,
+    "player": "Demario Douglas",
+    "created": 1795299345693
+  },
+  {
+    "id": "12f95f70-62f9-4089-9d85-348a09fbb066",
+    "manager": "John",
+    "week": 10,
+    "player": "Corey Kiner",
+    "created": 1795299381601
+  },
+  {
+    "id": "a6b5210b-23e3-4dc2-9b1b-b01c22caa841",
+    "manager": "Willie",
+    "week": 3,
+    "player": "Raiders",
+    "created": 1795299426070
+  },
+  {
+    "id": "9b949f57-8fb9-47c5-b9f8-480307d1bb0e",
+    "manager": "Willie",
+    "week": 4,
+    "player": "Luther Burden III",
+    "created": 1795299467886
+  },
+  {
+    "id": "c9f37dfa-14a5-4e04-8199-d03521f04b45",
+    "manager": "Willie",
+    "week": 6,
+    "player": "Tyreek Hill",
+    "created": 1795299490551
+  },
+  {
+    "id": "48856d89-e191-4396-83b7-89384c91a7ff",
+    "manager": "Willie",
+    "week": 7,
+    "player": "Darnell Washington",
+    "created": 1795299513651
+  },
+  {
+    "id": "00af7ac9-8278-4686-a22b-a380d8a4b2dd",
+    "manager": "Willie",
+    "week": 7,
+    "player": "Browns",
+    "created": 1795299520365
+  },
+  {
+    "id": "57499205-8256-40c7-b6d5-792f6400d83a",
+    "manager": "Willie",
+    "week": 8,
+    "player": "Devin Singletary",
+    "created": 1795299546273
+  },
+  {
+    "id": "b6447704-08a8-478d-8804-b6cc001293a7",
+    "manager": "Willie",
+    "week": 8,
+    "player": "Malik Washington",
+    "created": 1795299559985
+  },
+  {
+    "id": "29ae04f5-1daa-412b-8876-538e148239a2",
+    "manager": "Willie",
+    "week": 10,
+    "player": "Devante Adams",
+    "created": 1795299588739
+  },
+  {
+    "id": "b17e810c-b879-49b3-97c1-a737c40342e0",
+    "manager": "Willie",
+    "week": 10,
+    "player": "Tank Dell",
+    "created": 1795299607233
+  },
+  {
+    "id": "897de2d3-6302-4bb7-a984-26a419dd73a2",
+    "manager": "Steve",
+    "week": 11,
+    "player": "Deebo Samuel",
+    "created": 1795299752664
+  },
+  {
+    "id": "0da9eebd-b7f2-417f-9ec8-8a79e5b84edb",
+    "manager": "Brett",
+    "week": 11,
+    "player": "Jauan Jennings",
+    "created": 1795299799622
+  },
+  {
+    "id": "933475da-218d-4e14-aae0-8ec6200fb224",
+    "manager": "Brett",
+    "week": 11,
+    "player": "Buccaneers",
+    "created": 1795299832941
+  },
+  {
+    "id": "36053c33-c755-48c3-9e17-32211264701e",
+    "manager": "Willie",
+    "week": 11,
+    "player": "Jets",
+    "created": 1795299918311
+  },
+  {
+    "id": "3ba08355-d484-4f04-b0d5-af409f801f53",
+    "manager": "Willie",
+    "week": 11,
+    "player": "Courtland Sutton",
+    "created": 1795299952104
+  },
+  {
+    "id": "cc798a06-c0bc-489c-86e7-8a12b0fd6d9b",
+    "manager": "Willie",
+    "week": 11,
+    "player": "Raiders",
+    "created": 1795299973186
+  },
+  {
+    "id": "ceac90ae-096b-4b04-839f-dbb881f99922",
+    "manager": "Leo",
+    "week": 11,
+    "player": "Cam Ward",
+    "created": 1795300016282
+  },
+  {
+    "id": "9626ac70-866c-4480-a5fb-7c9516ec2db3",
+    "manager": "Leo",
+    "week": 11,
+    "player": "JJ McCarthy",
+    "created": 1795300031109
+  }
+]
