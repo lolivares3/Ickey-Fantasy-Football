@@ -40,7 +40,7 @@
         <span class="pill">Acquisitions 1–5: $20 each</span><span class="pill">Acquisitions 6–10: $10 each</span><span class="pill">Acquisition 11 onward: $5 each</span>
       </div>
       <p class="hint">The pricing tiers apply separately to each manager and count all acquisitions across the 15-week season.</p>
-      <p class="storage-note">Entries are saved in this browser on this device. Use the × beside an acquisition to remove it.</p>
+      <p class="storage-note">Acquisitions are loaded from the shared league database. Use the × beside an acquisition to remove it.</p>
     </section>
     <section class="panel table-panel" aria-labelledby="table-heading">
       <div class="table-heading"><h2 id="table-heading">Weekly acquisition ledger</h2></div>
@@ -50,7 +50,24 @@
     </section>
     <p id="status" class="sr-only" role="status" aria-live="polite"></p>
   </main>
-<script>
+<script type="module">
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.5/firebase-app.js";
+import {
+  getFirestore,
+  collection,
+  onSnapshot
+} from "https://www.gstatic.com/firebasejs/10.12.5/firebase-firestore.js";
+
+const firebaseConfig = {
+  apiKey: "AIzaSyBipjwKlYDXFj42SRC9cZhJMoUpoXGIZhg",
+  authDomain: "ickey-9a34f.firebaseapp.com",
+  projectId: "ickey-9a34f",
+  appId: "1:942563946429:web:6f23a3a3f5023fff8f6cd4"
+};
+
+const app = initializeApp(firebaseConfig);
+const db = getFirestore(app);
+
 (() => {
   'use strict';
   const managers = ['Brett', 'Jeff', 'Darin', 'Bruce', 'Leo', 'Steve', 'John', 'Willie'];
@@ -63,7 +80,7 @@
   const ledger = document.getElementById('ledger');
   const summary = document.getElementById('summary');
   const status = document.getElementById('status');
-  let acquisitions = load();
+  let acquisitions = [];
 
   function load() {
     try {
@@ -134,7 +151,28 @@
     acquisitions = acquisitions.filter(item => item.id !== button.dataset.delete);
     save(); render(); status.textContent = 'Acquisition removed.';
   });
-  render();
+ onSnapshot(
+  collection(db, "waiver_acquisitions"),
+  snapshot => {
+    acquisitions = snapshot.docs.map(documentSnapshot => {
+      const data = documentSnapshot.data();
+
+      return {
+        id: documentSnapshot.id,
+        manager: data.manager,
+        week: Number(data.week),
+        player: data.player,
+        created: Number(data.created) || 0
+      };
+    });
+
+    render();
+  },
+  error => {
+    console.error("Could not load Firestore acquisitions:", error);
+    status.textContent = `Could not load acquisitions: ${error.message}`;
+  }
+);
 })();
 </script>
 </body>
